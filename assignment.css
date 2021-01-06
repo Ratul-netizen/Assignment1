@@ -27,6 +27,10 @@ h1{
     color: white;
     font-weight: bold;
 }
+a:hover{
+    background-color: blue;
+    color: red;
+  }
 .middle{
     box-sizing: content-box;
     overflow: auto;
@@ -74,7 +78,7 @@ h1.middle-text{
     margin-right: auto;
 }
 .background{
-    background-image: url("images/Group_33094_1.png");
+    background-image: url("images/bluebackground.png");
     background-size: 100% ;
     background-position: center;
 }
