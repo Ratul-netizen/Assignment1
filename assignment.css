@@ -28,8 +28,8 @@ h1{
     font-weight: bold;
 }
 a:hover{
-    background-color: blue;
-    color: red;
+    background-color: whitesmoke;
+    color: blueviolet;
   }
 .middle{
     box-sizing: content-box;
