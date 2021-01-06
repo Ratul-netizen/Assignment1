@@ -19,6 +19,7 @@ body{
 h1{
     font-size: 50px;
 }
+
 .button-link{
     text-decoration: none;
     background-image: linear-gradient(270deg, lightsalmon, tomato);
@@ -57,7 +58,7 @@ h1.middle-text{
     color: crimson;
 }
 
-.work{
+.part{
     margin-left: 80px;
     margin-right: 10px;
     background-color: transparent;
@@ -71,7 +72,7 @@ h1.middle-text{
     background-position: left;
 
 }
-.work img{
+.part img{
     width: 100%;
     float: left;
     margin-left: auto;
