@@ -1,0 +1,85 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+.top{
+    box-sizing: content-box;
+    overflow: auto;
+    margin: 50px;
+}
+.orange-text{
+    color: lightsalmon;
+}
+
+.ratul1{
+    width: 40%;
+    height: 45%;
+    float: right;
+}
+h1{
+    font-size: 50px;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(270deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.middle{
+    box-sizing: content-box;
+    overflow: auto;
+    margin: 40px;
+}
+.about{
+
+    width: 49%;
+   float: right;
+}
+.ab{
+   font-size: 50px;
+}
+.ratul2{
+    width: 40%;
+    height: 45%;
+}
+
+h1.middle-text{
+    text-align: center;
+    font-size: 3vw;
+}
+.red-text{
+    color: crimson;
+}
+
+.work{
+    margin-left: 80px;
+    margin-right: 10px;
+    background-color: transparent;
+    width: 25%;
+    float: left;
+    padding-top: 100px; 
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-position: left;
+
+}
+.work img{
+    width: 100%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.background{
+    background-image: url("images/Group_33094_1.png");
+    background-size: 100% ;
+    background-position: center;
+}
+.space{
+    margin-top: 10px;
+    margin-right: 50%; 
+    float: left;
+}
